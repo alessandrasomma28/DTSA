@@ -15,4 +15,5 @@ The completeness, usefulness and perceived usability of the Digital Twin Softwar
 ## References 
 
 [1] International standard for software, systems and enterprise–architecture description, Standard, IEEE/ISO/IEC (11 2022), doi:10.1109/IEEESTD.2022.9938446.1071
+
 [2] P. Clements, F. Bachmann, L. Bass, D. Garlan, J. Ivers, R. Little, P. Merson, R. Nord, J. Stafford, Documenting Software Architectures: Views and Beyond, SEI Series in Software Engineering, Addison-Wesley, 2010.
