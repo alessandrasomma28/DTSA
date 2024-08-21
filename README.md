@@ -1,7 +1,7 @@
 # Digital Twin Software Architecture
 
 The **Digital Twin Software Architecture** is design and documented using the Views and Beyond approach proposed by the Software Engineering Institute (SEI) [2], in accordance with the ISO/IEC/IEEE 42010:2022 standard [1]. 
-The proposed architecture integrates elements and relations from existing literature on Digital Twin architectures and addresses the limitation identified in the Systematic Mapping Study we conducted. 
+The proposed architecture integrates elements and relations from existing literature on Digital Twin architectures and addresses the limitation identified in the Systematic Mapping Study (SMS) we conducted. 
 The completeness, usefulness and perceived usability of the Digital Twin Software Architecture have been evaluated through a validation suvery with academia and domain experts. 
 
 
@@ -9,7 +9,7 @@ The completeness, usefulness and perceived usability of the Digital Twin Softwar
 ## Repository structure
 1. **Systematic Mapping Study** contains the Excel sheet with selected primary studies in the SMS process and the data extracted to answers the publication space and research space research questions.
 2. **Digital Twin Software Architecture** contains the .vpp file of the proposed architecture. The Visual Paradigm *version* used is *16.2*. 
-3. **Diagrams Images** contains high quality images of the *UML* diagrams of the proposed architecture. 
+3. **HQ Images** contains high quality images of the SMS findings, UML diagrams of the proposed architecture and survey results in terms of completeness, usefulness, and perceived usability. 
 4. **Validation survey** contains the Excel sheet with results from the survey with academia and industry researchers we conducted. Data have been anonymized.  
 
 ## References 
